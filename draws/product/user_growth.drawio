@@ -1,1 +1,65 @@
-<mxfile host="app.diagrams.net" modified="2021-02-24T07:39:56.507Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" version="14.2.3" etag="Ve3jAF5Jw_hcCf6YUTKV" type="github"><diagram id="BuAxbPYosKj4T7V_GTE_">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-02-25T11:29:03.353Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="Lxd0bUscpIylZADWjNS7" version="14.2.3" type="github">
+  <diagram id="BuAxbPYosKj4T7V_GTE_" name="Page-1">
+    <mxGraphModel dx="984" dy="565" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hzKRBZYOSNe8jbGxZAi_-1" value="SMS" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="80" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hzKRBZYOSNe8jbGxZAi_-2" value="Mail" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="200" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hzKRBZYOSNe8jbGxZAi_-3" value="AppPush" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="320" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hzKRBZYOSNe8jbGxZAi_-4" value="MaxCompute" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="440" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hzKRBZYOSNe8jbGxZAi_-5" value="Push wrapper&lt;br&gt;(EAS Service)" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="80" y="480" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hzKRBZYOSNe8jbGxZAi_-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="hzKRBZYOSNe8jbGxZAi_-7" target="hzKRBZYOSNe8jbGxZAi_-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hzKRBZYOSNe8jbGxZAi_-29" value="Quota&lt;br&gt;BlackList&lt;br&gt;Statistic&lt;br&gt;User&lt;br&gt;JobConfig&lt;br&gt;AlgoConfig" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hzKRBZYOSNe8jbGxZAi_-28">
+          <mxGeometry x="0.3791" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hzKRBZYOSNe8jbGxZAi_-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.162;exitY=0.98;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;strokeWidth=2;exitPerimeter=0;" edge="1" parent="1" source="hzKRBZYOSNe8jbGxZAi_-7" target="hzKRBZYOSNe8jbGxZAi_-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hzKRBZYOSNe8jbGxZAi_-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;strokeWidth=2;" edge="1" parent="1" source="hzKRBZYOSNe8jbGxZAi_-7" target="hzKRBZYOSNe8jbGxZAi_-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hzKRBZYOSNe8jbGxZAi_-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=none;startFill=0;strokeWidth=2;" edge="1" parent="1" source="hzKRBZYOSNe8jbGxZAi_-7" target="hzKRBZYOSNe8jbGxZAi_-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hzKRBZYOSNe8jbGxZAi_-52" value="Algorithm" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hzKRBZYOSNe8jbGxZAi_-51">
+          <mxGeometry x="0.5324" y="1" relative="1" as="geometry">
+            <mxPoint x="29" y="0.95" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hzKRBZYOSNe8jbGxZAi_-7" value="UG&lt;br&gt;Service" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="80" y="300" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hzKRBZYOSNe8jbGxZAi_-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.166;entryY=0.021;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;strokeWidth=2;" edge="1" parent="1" source="hzKRBZYOSNe8jbGxZAi_-13" target="hzKRBZYOSNe8jbGxZAi_-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hzKRBZYOSNe8jbGxZAi_-13" value="CronJob&lt;br&gt;(Audit/Check/Push)" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="80" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hzKRBZYOSNe8jbGxZAi_-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="hzKRBZYOSNe8jbGxZAi_-16" target="hzKRBZYOSNe8jbGxZAi_-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hzKRBZYOSNe8jbGxZAi_-16" value="UG-API" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="80" y="200" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hzKRBZYOSNe8jbGxZAi_-50" value="DataWorks/PAI&lt;br&gt;API" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="560" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
