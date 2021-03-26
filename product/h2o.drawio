@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-25T15:28:43.848Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="Qsjxrh3m11jzG2zBXhTH" version="14.4.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-26T01:37:53.325Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="-vCPAVTFKVsZiDs4YZDy" version="14.4.7" type="github">
   <diagram id="smtT8wupvltv7x-k8p_4" name="Page-1">
-    <mxGraphModel dx="871" dy="509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1045" dy="610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -566,7 +566,7 @@
             <mxPoint x="340" y="2010" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hIb05p2mT3cbretoBD5p-143" value="recursive channel?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="hIb05p2mT3cbretoBD5p-143" value="recursive channel?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="1350" y="820" width="210" height="20" as="geometry" />
         </mxCell>
         <mxCell id="hIb05p2mT3cbretoBD5p-145" value="group?" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;container=0;strokeColor=#000000;arcSize=16;absoluteArcSize=0;" vertex="1" parent="1">
@@ -576,7 +576,10 @@
           <mxGeometry x="1350" y="881" width="210" height="20" as="geometry" />
         </mxCell>
         <mxCell id="hIb05p2mT3cbretoBD5p-147" value="channel" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="205" y="1880" width="60" height="20" as="geometry" />
+          <mxGeometry x="205" y="2040" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hIb05p2mT3cbretoBD5p-149" value="drag all &amp;amp; ajust" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="190" y="1389" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
