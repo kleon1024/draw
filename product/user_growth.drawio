@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-19T08:50:07.778Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="-2M8A6QYyWnlTzs7c_iU" version="15.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-19T08:51:12.871Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="TwqESaSQOgz8GPayFCVo" version="15.8.2" type="github">
   <diagram id="BuAxbPYosKj4T7V_GTE_" name="Page-1">
     <mxGraphModel dx="1158" dy="1722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -181,7 +181,7 @@
         <mxCell id="iF7CuUo6p0rLNnXxhPBk-70" value="回流数据" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="480" y="1520" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iF7CuUo6p0rLNnXxhPBk-72" value="短链点开率" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="iF7CuUo6p0rLNnXxhPBk-72" value="短链点开" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="640" y="1520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iF7CuUo6p0rLNnXxhPBk-74" value="SDK回调" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
