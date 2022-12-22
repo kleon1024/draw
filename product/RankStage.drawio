@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-22T03:08:19.382Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="UHMpWWynI1m7Wi_ZCvca" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-22T05:26:00.161Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="n5fvpqaObT3SWjbWsfEN" version="20.7.4" type="github">
   <diagram id="BtEQAv7aX4FZJnj8dR4N" name="Page-1">
-    <mxGraphModel dx="2420" dy="2053" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1783" dy="1700" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -128,10 +128,13 @@
           <mxGeometry x="600" y="400" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="VAz35YYLMqw6oio7wdMJ-32" value="&lt;b&gt;Leaderboard&lt;br&gt;Recall&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="240" y="640" width="160" height="80" as="geometry" />
+          <mxGeometry x="200" y="640" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="VAz35YYLMqw6oio7wdMJ-33" value="&lt;b&gt;poi 特征表&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="40" y="640" width="160" height="80" as="geometry" />
+        <mxCell id="VAz35YYLMqw6oio7wdMJ-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=3;fontColor=default;" edge="1" parent="1" source="VAz35YYLMqw6oio7wdMJ-33" target="VAz35YYLMqw6oio7wdMJ-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VAz35YYLMqw6oio7wdMJ-33" value="&lt;b&gt;category&lt;br&gt;location&lt;br&gt;L1,L2,L3,L4&lt;br&gt;scores&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry y="640" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
